@@ -2,19 +2,19 @@ under construction
 
 good resources:
 
-[National Youth Rights Association/NYRA](youthrights.org) (of which I am a member)
+[National Youth Rights Association/NYRA](https://youthrights.org) (of which I am a member)
 
-[European Youth Forum](youthforum.org)
+[European Youth Forum](https://youthforum.org)
 
-[Youth Policy](youthpolicy.org) (has a mastodon instance at youth.social, also europe)
+[Youth Policy](https://youthpolicy.org) (has a mastodon instance at youth.social, also europe)
 
-[Taking Children Seriously](takingchildrenseriously.com) (blog by a parent, extremely refreshing perspective compared to other parents)
+[Taking Children Seriously](https://takingchildrenseriously.com) (blog by a parent, extremely refreshing perspective compared to other parents)
 
-[Peter Gray](https://www.petergray.org/) (youth rights/alternative education advocate, has a high quality substack/blog)
+[Peter Gray](https://petergray.org/) (youth rights/alternative education advocate, has a high quality substack/blog)
 
-[Let Grow](letgrow.org) (Alternative education org, has some hot takes around tech that I don't agree with but yeah)
+[Let Grow](https://letgrow.org) (Alternative education org, has some hot takes around tech that I don't agree with but yeah)
 
-[We Warned Them](wewarnedthem.org) (Youth Led (afaik) anti-TTI org)
+[We Warned Them](https://wewarnedthem.org) (Youth Led (afaik) anti-TTI org)
 
 https://freechild.org
 
@@ -24,7 +24,7 @@ https://generationup.net
 
 https://generationcitizen.org
 
-[freechild](freechild.org)(basically one person?)
+[freechild](https://freechild.org)(basically one person?)
 
 good but specific resources:
 
