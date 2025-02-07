@@ -2,8 +2,7 @@ under construction
 
 good resources:
 
-[National Youth Rights Association/NYRA](https://youthrights.org) (of which I am a member)
-
+[National Youth Rights Association/NYRA](https://youthrights.org) (of which I am a member)  
 [European Youth Forum](https://youthforum.org)
 
 [Youth Policy](https://youthpolicy.org) (has a mastodon instance at youth.social, also europe)
