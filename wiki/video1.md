@@ -1,8 +1,11 @@
 Video:
+
 <video controls width="250">
   <source src="./video1.webm" type="video/webm"; codecs='vp9'/>
 </video>
+
 <a href="./video1.webm">download</a>
+
 (apologies for the video compression on this version, i should fix it soon)
 Or on youtube:
 https://youtu.be/WBQf6crEQTk
