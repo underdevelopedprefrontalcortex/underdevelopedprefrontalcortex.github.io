@@ -6,9 +6,9 @@ Video:
 
 <a href="./video1.webm">download</a>
 
-(apologies for the video compression on this version, i should fix it soon)
+(apologies for the video compression on this version, fixing it seems difficult but hey, youtube-dl)
 Or on youtube:
-https://youtu.be/WBQf6crEQTk
+[https://youtube.com/watch?v=WBQf6crEQTk](https://youtube.com/watch?v=WBQf6crEQTk)
 Future videos (and this one, in a week or so) will also be uploaded on platforms like Bluesky and Mastodon hopefully
 
 Video transcript:
