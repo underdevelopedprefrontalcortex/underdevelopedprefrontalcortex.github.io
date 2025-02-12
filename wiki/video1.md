@@ -1,10 +1,10 @@
 (Kinda unpolished) Video:
 
-<video controls width="250">
-  <source src="./video1.webm" type="video/webm"; codecs='vp9'/>
+<video controls width="400">
+  <source src="../video1.mp4" type="video/mp4; codecs="avc1.4d002a" />
 </video>
 
-<a href="./video1.webm">download</a>
+<a href="../video1.webm">download</a>
 
 (apologies for the video compression on this version, fixing it seems difficult but hey, youtube-dl)
 Or on youtube:
