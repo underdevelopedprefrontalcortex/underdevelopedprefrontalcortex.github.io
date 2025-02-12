@@ -1,4 +1,4 @@
-Video:
+(Kinda unpolished) Video:
 
 <video controls width="250">
   <source src="./video1.webm" type="video/webm"; codecs='vp9'/>
