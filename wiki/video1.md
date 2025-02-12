@@ -1,6 +1,6 @@
 Video:
 <video controls width="250">
-  <source src="./video1.webm" type="video/webm" />
+  <source src="./video1.webm" type="video/webm"; codecs='vp9'/>
   Download the
   <a href="./video1.webm">WEBM</a>
   video.
