@@ -5,7 +5,7 @@
 </video>
 
 <a href="../video1.mp4">download</a>
-
+(currently having technical difficulties getting embed to work, but the ~95mb download should work. also uploaded on [the mastodon instance mas.to](https://mas.to/@underdevelopedprefrontalcortex))
 (apologies for the video compression on this version, fixing it seems difficult but hey, youtube-dl)
 Or on youtube:
 [https://youtube.com/watch?v=WBQf6crEQTk](https://youtube.com/watch?v=WBQf6crEQTk)
