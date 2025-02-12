@@ -1,5 +1,10 @@
 Video:
-![video1](video1.webm)
+<video controls width="250">
+  <source src="./video1.webm" type="video/webm" />
+  Download the
+  <a href="./video1.webm">WEBM</a>
+  video.
+</video>
 (apologies for the video compression on this version, i should fix it soon)
 Or on youtube:
 https://youtu.be/WBQf6crEQTk
