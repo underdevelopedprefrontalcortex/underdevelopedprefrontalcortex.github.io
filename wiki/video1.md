@@ -56,3 +56,4 @@ not withstanding a few legal fair use exceptions.
 For more information or a video file download, see
 underdevelopedprefrontalcortex.github.io/video1
 
+email: underdevelopedprefrontalcortex@tuta.com
