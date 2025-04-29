@@ -9,4 +9,4 @@ Website is moderately under construction.
 aprefrontalcortex on | [Bluesky](https://aprefrontalcortex.bsky.social) | [Reddit](https://reddit.com/u/aprefrontalcortex)
 underdevelopedprefrontalcortex on [Youtube](https://youtube.com/@UnderdevelopedPrefrontalCortex) | [mas.to (Mastodon)](https://mas.to/@underdevelopedprefrontalcortex) | Discord | [Instagram](https://instagram.com/underdevelopedprefrontalcortex) | [Wikipedia](https://en.wikipedia.org/wiki/User:Underdevelopedprefrontalcortex) | [GitHub](https://github.com/underdevelopedprefrontalcortex)
 
-15, he/him, USA
+16, he/him, USA
