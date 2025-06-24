@@ -1,6 +1,6 @@
 # Underdeveloped Prefrontal Cortex
 
-Hi! I'm a freshly minted Youth Rights advocate, youtuber and member of the [National Youth Rights Association](https://youthrights.org).
+Hi! I'm a new Youth Rights advocate, youtuber and member of the [National Youth Rights Association](https://youthrights.org).
 
 You may be looking for the [resource list](resources) or my socials below.
 
