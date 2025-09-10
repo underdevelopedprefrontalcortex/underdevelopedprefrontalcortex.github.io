@@ -16,4 +16,4 @@ My work:
 
 [Powerschool vs. Student Privacy](https://www.youthrights.org/powerschool-vs-student-privacy/) - NYRA blog post about the 2025 data breach of Powerschool that affected over 60 million students and about technology more generally.
 
-[A Reintroduction to Youth Rights](video1.md) - Mediocre video generally introducing the concept of Youth Rights. Done without any rerecords, with a shoddy microphone, and it shows.
+[A Reintroduction to Youth Rights](video1) - Mediocre video generally introducing the concept of Youth Rights. Done without any rerecords, with a shoddy microphone, and it shows.
