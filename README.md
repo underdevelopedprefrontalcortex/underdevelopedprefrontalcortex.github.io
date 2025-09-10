@@ -6,8 +6,7 @@ You may be looking for the [resource list](resources) or my socials below.
 
 Website is moderately under construction.
 
-aprefrontalcortex on | [Bluesky](https://aprefrontalcortex.bsky.social) | [Reddit](https://reddit.com/u/aprefrontalcortex)
-
+aprefrontalcortex on | [Bluesky](https://aprefrontalcortex.bsky.social) | [Reddit](https://reddit.com/u/aprefrontalcortex)  
 underdevelopedprefrontalcortex on | [Youtube](https://youtube.com/@UnderdevelopedPrefrontalCortex) | [mas.to (Mastodon)](https://mas.to/@underdevelopedprefrontalcortex) | Discord | [Wikipedia](https://en.wikipedia.org/wiki/User:Underdevelopedprefrontalcortex) | [GitHub](https://github.com/underdevelopedprefrontalcortex) | [archive.org](https://archive.org/details/@underdevelopedprefrontalcortex/web-archive)
 
 16, he/him, USA
